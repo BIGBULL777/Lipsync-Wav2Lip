@@ -25,5 +25,5 @@ To run the Lipsync-Wav2Lip project, follow these steps:
 
 Contributions are welcome! If you have any suggestions, bug reports, or improvements, please feel free to submit a pull request or open an issue.
 
-#Output
+# Output
 The generated video with lipsync can be found on the master branch of the same git repository.
